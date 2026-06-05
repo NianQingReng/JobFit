@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# Test files
+t1.pdf
+test_resume.docx
+test_resume.pdf
+test_*.py
+e2e_test_*.py
+debug_*.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Node
+node_modules/
+dist/
+
+# Env
+.env
+*.env.local
+
+# Claude config (local)
+.claude/
